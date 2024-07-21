@@ -4,3 +4,4 @@ matplotlib
 sumo
 serial
 sumolib
+traci
