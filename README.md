@@ -35,10 +35,10 @@ Use the following command:
 
 ## Train the model:
 Use the following command:
-python train.py --train -e 50 -m model_name -s 500
+python train.py --train -a sample_train.py -e 50 -m model_name -s 500
 
 ## Run the moedel:
-python train.py -m model_name -s 500
+python driver.py -m model_name -s 500 -a sample_train.py
 
 ## For running on Arduino:
 For running Arduino for testing use --ard.
