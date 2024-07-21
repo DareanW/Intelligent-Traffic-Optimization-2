@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2024-07-21 13:02:45.455235 by randomTrips.py UNKNOWN
-  options: -n network.net.xml -r routes.rou.xml -e 300
+<!-- generated on 2024-07-21 13:07:09.010968 by randomTrips.py UNKNOWN
+  options: -n maps/network.net.xml -r routes.rou.xml -e 300
 -->
 
 <routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
